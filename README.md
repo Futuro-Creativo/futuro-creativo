@@ -1,4 +1,5 @@
 #
+
 Solicitud de recursos para el encuentro “Futuro Creativo”: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología.
 
 Fecha: 02 02 2023
@@ -29,22 +30,28 @@ En CREO, creemos en el poder de la colaboración para impulsar el crecimiento y 
 Durante el encuentro, tendremos conferencias magistrales, mesas redondas y talleres prácticos para explorar los desafíos y oportunidades de las industrias creativas y la tecnología. Además, habrá una gran variedad de exhibiciones y presentaciones para conocer las últimas tendencias y avances en el campo.
 
 No te pierdas esta oportunidad única de conectarte con otros líderes en la industria y aprender de los mejores en el campo.
+
 #
 
 ![Portada](https://images.unsplash.com/photo-1546603999-24fbcb911bee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
 
-# “Futuro Creativo: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología.”
+# 
 
- ### Presentadores:
+“Futuro Creativo: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología.”
+
+ ### 
+ 
+ Presentadores:
 
 * Mario Fernandez
 
 #
 
 
+### 
 
-### Objetivo:
+Objetivo:
 
 En esta presentación, exploraremos la intersección entre la cultura, las industrias creativas y la tecnología, y cómo estos elementos se están combinando para crear un futuro más creativo. A través de la revisión de investigaciones, estudios de casos y análisis, presentaremos nuestro proyecto "Futuro Creativo", que aborda cómo la tecnología está impulsando el desarrollo de las industrias creativas y cómo estas industrias están influyendo en la cultura y la sociedad.
 
@@ -52,6 +59,7 @@ En esta presentación, exploraremos la intersección entre la cultura, las indus
 
 
 ### Resumen Ejecutivo:
+
 
 El encuentro "Futuro Creativo”: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología" tiene como objetivo principal convocar culturas, comunidades y organizaciones analizar y comprender cómo estos tres aspectos pueden trabajar juntos para impulsar el desarrollo económico y cultural en una sociedad.
 
