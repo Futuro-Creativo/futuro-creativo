@@ -14,7 +14,7 @@ Estimada/o Marta Sánchez, coordinadora de programa.
 
 Espero que se encuentre bien. Mi nombre es Mario Fernandez Serrano, y me dirijo a usted en calidad de fundador de la organización futuro creativo. Estoy escribiendo para solicitar su apoyo para el desarrollo del encuentro "Futuro Creativo: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología"
 
-Estudiante del programa Gestión Cultural y de las Industrias Creativas, código estudiante: 20211291005 y quiero presentarles nuestro proyecto “Futuro Creativo”: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología.
+Quiero presentarles nuestro proyecto “Futuro Creativo”: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología.
 
 Este proyecto busca analizar la importancia de las industrias creativas en la economía global, su impacto en la sociedad y su evolución en el mundo digital.
 Además, nos centramos en la situación de las industrias creativas en Colombia y su potencial de crecimiento.
@@ -44,7 +44,7 @@ No te pierdas esta oportunidad única de conectarte con otros líderes en la ind
  
  Presentadores:
 
-* Mario Fernandez
+*  Por anunciar
 
 #
 
@@ -84,7 +84,6 @@ Atentamente,
 
 * Mario Fernandez Serrano
 
-* CC: 85489795
 
 
 
