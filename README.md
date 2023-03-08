@@ -23,7 +23,7 @@ En la Universidad del Magdalena y CREO, creemos que es fundamental apoyar y fome
 
 Esperamos que nuestro trabajo sea útil para los estudiantes, profesores y la sociedad en general, y que inspire a más personas a explorar este tema importante.
 estamos emocionados de presentar el máximo encuentro de gestores culturales, industrias creativas y tecnología producido por “Futuro Creativo”. 
-Este espacio reunirá a los mejores exponentes de toda Latinoamérica y el Caribe, incluyendo conferencia de egresados y estudiantes del programa GitHub Campus Experts entre otros.
+Este espacio reunirá a los mejores exponentes de toda Latinoamérica y el Caribe, egresados, estudiantes de diferentes y diversos programas del ecosistema tech entre otros.
 
 En CREO, creemos en el poder de la colaboración para impulsar el crecimiento y el desarrollo de las industrias creativas. Por eso, queremos brindar a los participantes la oportunidad de conectarse, compartir ideas y aprender de los mejores en el campo.
 
