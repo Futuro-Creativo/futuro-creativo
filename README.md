@@ -1,35 +1,19 @@
 #
 
-Solicitud de recursos para el encuentro “Futuro Creativo”: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología.
-
-Fecha: 02 02 2023
-
-A: Universidad del Magdalena y CREO. 
-
-Santa Marta, Magdalena, Código postal 470002.
-
-Asunto: Solicitud de apoyo para el encuentro “Futuro Creativo.
-
-Estimada/o Marta Sánchez, coordinadora de programa.
-
-Espero que se encuentre bien. Mi nombre es Mario Fernandez Serrano, y me dirijo a usted en calidad de fundador de la organización futuro creativo. Estoy escribiendo para solicitar su apoyo para el desarrollo del encuentro "Futuro Creativo: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología"
-
-Quiero presentarles nuestro proyecto “Futuro Creativo”: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología.
+“IslaHack”: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología.
 
 Este proyecto busca analizar la importancia de las industrias creativas en la economía global, su impacto en la sociedad y su evolución en el mundo digital.
-Además, nos centramos en la situación de las industrias creativas en Colombia y su potencial de crecimiento.
 
-En la Universidad del Magdalena y CREO, creemos que es fundamental apoyar y fomentar el desarrollo de las industrias creativas, temas de las culturas y tecnología y es por lo que queremos contribuir con este proyecto y realizarlo en el marco de la semana Cultural de la Universidad del Magdalena. 
+Creemos que es fundamental apoyar y fomentar el desarrollo de las industrias creativas, temas de las culturas y tecnología. 
 
 Esperamos que nuestro trabajo sea útil para los estudiantes, profesores y la sociedad en general, y que inspire a más personas a explorar este tema importante.
-estamos emocionados de presentar el máximo encuentro de gestores culturales, industrias creativas y tecnología producido por “Futuro Creativo”. 
+
 Este espacio reunirá a los mejores exponentes de toda Latinoamérica y el Caribe, egresados, estudiantes de diferentes y diversos programas del ecosistema tech entre otros.
 
-En CREO, creemos en el poder de la colaboración para impulsar el crecimiento y el desarrollo de las industrias creativas. Por eso, queremos brindar a los participantes la oportunidad de conectarse, compartir ideas y aprender de los mejores en el campo.
+Creemos en el poder de la colaboración para impulsar el crecimiento y el desarrollo de las industrias creativas. Por eso, queremos brindar a los participantes la oportunidad de conectarse, compartir ideas y aprender de los mejores en el campo.
 
 Durante el encuentro, tendremos conferencias magistrales, mesas redondas y talleres prácticos para explorar los desafíos y oportunidades de las industrias creativas y la tecnología. Además, habrá una gran variedad de exhibiciones y presentaciones para conocer las últimas tendencias y avances en el campo.
 
-No te pierdas esta oportunidad única de conectarte con otros líderes en la industria y aprender de los mejores en el campo.
 
 #
 
@@ -38,7 +22,7 @@ No te pierdas esta oportunidad única de conectarte con otros líderes en la ind
 
 # 
 
-“Futuro Creativo: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología.”
+“IslaHack: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología.”
 
  ### 
  
@@ -58,10 +42,10 @@ En esta presentación, exploraremos la intersección entre la cultura, las indus
 #
 
 
-### Resumen Ejecutivo:
+### Resumen:
 
 
-El encuentro "Futuro Creativo”: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología" tiene como objetivo principal convocar culturas, comunidades y organizaciones analizar y comprender cómo estos tres aspectos pueden trabajar juntos para impulsar el desarrollo económico y cultural en una sociedad.
+El encuentro "IslaHack”: Explorando la Intersección de la Cultura, las Industrias Creativas y la Tecnología" tiene como objetivo principal convocar culturas, comunidades y organizaciones analizar y comprender cómo estos tres aspectos pueden trabajar juntos para impulsar el desarrollo económico y cultural en una sociedad.
 
 En un contexto global en el que la cultura, la tecnología y las industrias creativas están en constante evolución y crecimiento, es importante entender cómo se pueden aprovechar estas tendencias para impulsar el desarrollo y el progreso.
 
@@ -87,5 +71,5 @@ Atentamente,
 
 
 
-¡Te esperamos en el encuentro “Futuro Creativo”!
+¡Te esperamos en el encuentro “IslaHack”!
 
